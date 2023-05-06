@@ -9,7 +9,6 @@
   <h1 class="w3-jumbo">Daily Ping</h1>
 </div>
 
-eeeerty
   
   
   
