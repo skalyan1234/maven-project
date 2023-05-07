@@ -9,7 +9,7 @@
   <h1 class="w3-jumbo">Daily Ping</h1>
 </div>
 
-  
+  kalyan
   
   
 <div class="w3-row-padding w3-margin-top">
